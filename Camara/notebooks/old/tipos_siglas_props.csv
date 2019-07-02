@@ -1,0 +1,173 @@
+sigla,descricao,ativa,genero
+AA        ,Autógrafo,True,o
+ADD       ,Adendo,True,o
+ANEXO     ,Anexo,True,o
+APJ       ,Anteprojeto,True,o
+ATA       ,Ata,True,a
+ATC       ,Ato Convocatório,True,o
+ATOP      ,Ato do Presidente,False,o
+AV        ,Aviso,True,o
+AVN       ,Aviso (CN),True,o
+CAC       ,Comunicado de alteração do controle societário,True,o
+CAE       ,Relatório de Atividades do Comitê de Admissibilidade de Emendas (CAE),True,o
+CAE       ,Relatório,True,o
+CCN       ,Consulta do Congresso Nacional,True,a
+COI       ,Relatório do COI,True,o
+CON       ,Consulta,True,a
+CRVITAEDOC,Curriculum Vitae/Outro Documento,True,o
+CST       ,CST,False,o
+CVO       ,Complementação de Voto,True,a
+CVR       ,Contestação ao Voto do Relator,True,a
+DCR       ,Denúncia por crime de responsabilidade,True,a
+DEC       ,Decisão,True,a
+DEN       ,Denúncia,True,a
+DIS       ,Discurso,True,o
+DOC       ,Documentos internos,True,o
+DOCCPI    ,Documento de CPI ostensivo,True,o
+DOCCPI    ,Documento de CPI sigiloso,True,o
+DTQ       ,Destaque,True,o
+DVT       ,Declaração de Voto,True,a
+EAG       ,Emenda Substitutiva Aglutinativa Global,True,a
+EMA       ,Emenda Aglutinativa de Plenário,True,a
+EMC       ,Emenda na Comissão,True,a
+EMC-A     ,Emenda Adotada pela Comissão,True,a
+EMD       ,Emenda,True,a
+EML       ,Emenda à LDO,True,a
+EMO       ,Emenda ao Orçamento,True,a
+EMP       ,Emenda de Plenário,True,a
+EMPV      ,Emenda a Medida Provisória,True,a
+EMR       ,Emenda de Relator,True,a
+EMRP      ,Emenda de Relator Parcial,True,a
+EMS       ,Emenda/Substitutivo do Senado,True,a
+EPP       ,Emenda ao Plano Plurianual,True,a
+ERD       ,Emenda de Redação,True,a
+ERD-A     ,Emenda de Redação Adotada,True,a
+ERR       ,Errata,True,a
+ESB       ,Emenda ao Substitutivo,True,a
+ESP       ,Emenda Substitutiva de Plenário,True,a
+EXP       ,Exposição,False,o
+IAN       ,IAN,False,o
+INA       ,Indicação de Autoridade,True,a
+INC       ,Indicação,True,a
+MAD       ,Manifestação do(a) Denunciado(a),True,a
+MAN       ,Manifestação do Relator,True,a
+MCN       ,Mensagem (CN),True,o
+MMP       ,Mensagem do Ministério Público da União,True,a
+MPV       ,Medida Provisória,True,a
+MSC       ,Mensagem,True,a
+MSF       ,Mensagem (SF),True,a
+MSG       ,Mensagem (CN),True,a
+MST       ,Mensagem do Supremo Tribunal Federal,True,a
+MTC       ,Mensagem do Tribunal de Contas da União,True,a
+NIC       ,Norma Interna,True,a
+NINF      ,Não Informada,False,o
+OBJ       ,Objeto de Deliberação,True,a
+OF        ,Ofício,True,o
+OF        ,Ofício do Congresso Nacional,True,o
+OF        ,Ofício do Congresso Nacional,True,o
+OF        ,Ofício do Senado Federal,True,o
+OF.       ,Ofício Externo,True,o
+OFE       ,Ofício de órgão do Poder Executivo,True,o
+OFJ       ,Ofício de órgão do Poder Judiciário,True,o
+OFN       ,Ofício (CN),True,o
+OFS       ,Ofício do Senado Federal,True,o
+OFT       ,OFT,False,o
+P.C       ,Parecer (CD),True,o
+PAR       ,Parecer de Comissão,True,o
+PARF      ,Parecer de Comissão para Redação Final,True,o
+PCA       ,PCA,False,o
+PDA       ,PDA,False,o
+PDC       ,Projeto de Decreto Legislativo,False,o
+PDL       ,Projeto de Decreto Legislativo,True,o
+PDN       ,Projeto de Decreto Legislativo (CN),True,o
+PDS       ,Projeto de Decreto Legislativo (SF),True,o
+PEA       ,Parecer à Emenda Aglutinativa,True,o
+PEC       ,Proposta de Emenda à Constituição,True,a
+PEP       ,Parecer às Emendas de Plenário,True,o
+PES       ,Parecer às emendas apresentadas ao Substitutivo do Relator,True,o
+PET       ,Petição,True,a
+PFC       ,Proposta de Fiscalização e Controle,True,a
+PIN       ,Proposta de Instrução Normativa,True,a
+PL        ,Projeto de Lei,True,o
+PLC       ,Projeto de Lei da Câmara dos Deputados (SF),True,o
+PLN       ,Projeto de Lei (CN),True,o
+PLP       ,Projeto de Lei Complementar,True,o
+PLS       ,Projeto de Lei do Senado Federal,True,o
+PLV       ,Projeto de Lei de Conversão,True,o
+PPP       ,Parecer Proferido em Plenário,True,o
+PPP       ,Parecer Proferido em Plenário - Notas Taquigráficas,True,o
+PPR       ,Parecer Reformulado de Plenário,True,o
+PR/CNJ    ,Parecer do Conselho Nacional de Justiça,True,o
+PR/CNMP   ,Parecer do Conselho Nacional do Ministério Público,True,o
+PRA       ,Projeto de Resolução da Assembleia Constituinte - 1987/88,False,o
+PRC       ,Projeto de Resolução,True,o
+PRF       ,Projeto de Resolução do Senado Federal,True,o
+PRL       ,Parecer do Relator,True,o
+PRN       ,Projeto de Resolução do Congresso Nacional,True,o
+PRO       ,Proposta,True,a
+PRP       ,Parecer do Relator Parcial,True,o
+PRR       ,Parecer Reformulado,True,o
+PRST      ,Parecer à Redação para o Segundo Turno,True,o
+PRT       ,Parecer Técnico,True,o
+PRV       ,Parecer Vencedor,True,o
+PRVP      ,Proposta de Redação do Vencido em Primeiro Turno,True,o
+PSS       ,Parecer às Emendas ou ao Substitutivo do Senado - Notas Taquigráficas,True,o
+PSS       ,Parecer às Emendas ou ao Substitutivo do Senado,True,o
+R.C       ,Recurso do Congresso Nacional,True,o
+RAT       ,Relatório Setorial,True,o
+RCM       ,RCM,False,o
+RCP       ,Requerimento de Instituição de CPI,True,o
+RDF       ,Redação Final,True,a
+RDV       ,Redação do Vencido,True,a
+REC       ,Recurso,True,o
+REL       ,Relatório,True,a
+REM       ,Reclamação,True,a
+REP       ,Representação,True,a
+REQ       ,Requerimento,True,o
+RFP       ,"Refomulação de Parecer - art. 130, parágrafo único do RICD.",False,a
+RIC       ,Requerimento de Informação,True,o
+RIN       ,Requerimento de Resolução Interna,True,a
+RLF       ,Relatório Final,True,o
+RLP       ,Relatório Prévio,True,o
+RLP(R)    ,Relatório Prévio Reformulado,True,o
+RLP(V)    ,Relatório Prévio Vencedor,True,o
+RPA       ,Relatório Parcial,True,o
+RPL       ,Relatório Preliminar,True,o
+RPLE      ,Relatório Preliminar Apresentado com Emendas,True,o
+RPLOA     ,Relatório Preliminar,True,o
+RPR       ,Representação,False,a
+RQA       ,Requerimento de Informações da Assembleia Constituinte - 1987/88,False,o
+RQC       ,RQC,False,o
+RQN       ,Requerimento do Congresso Nacional,True,o
+RQP       ,Requerimento de Plenário,True,o
+RRC       ,Relatório de Receita,True,o
+RRL       ,Relatório do Relator,True,o
+RST       ,Redação para o segundo turno,True,a
+RTV       ,Mensagem de Rádio e Televisão,False,a
+SAP       ,Subemenda Aglutinativa Substitutiva de Plenário,False,a
+SBE       ,Subemenda,True,a
+SBE-A     ,Subemenda Adotada pela Comissão,True,a
+SBR       ,Subemenda de Relator,True,a
+SBT       ,Substitutivo,True,o
+SBT-A     ,Substitutivo adotado pela Comissão,True,o
+SDL       ,Sugestão de Emenda à LDO - CLP,True,a
+SGM       ,Ofício da Mesa,False,o
+SIP       ,Solicitação para instauração de processo,True,a
+SIT       ,Solicitação de Informação ao TCU,True,a
+SLD       ,Sugestão de Emenda à LDO - Comissões,True,a
+SOA       ,Sugestão de Emenda ao Orçamento - CLP,True,a
+SOR       ,Sugestão de Emenda ao Orçamento - Comissões,True,a
+SPA       ,Sugestão de Emenda ao PPA - CLP,True,a
+SPA-R     ,Sugestão de Emenda ao PPA - revisão (CLP),True,a
+SPP       ,Sugestão de Emenda ao PPA - Comissões,True,a
+SPP-R     ,Sugestão de Emenda ao PPA - revisão (Comissões),True,o
+SRAP      ,Sugestão de Requerimento de Audiência Pública,False,o
+SRL       ,Sugestão de Emenda a Relatório,True,a
+SSP       ,Subemenda Substitutiva de Plenário,True,a
+STF       ,Ofício,False,o
+SUC       ,Sugestão a Projeto de Consolidação de Leis,True,a
+SUG       ,Sugestão,True,a
+SUM       ,Súmula,True,a
+TER       ,Termo de Implementação,True,o
+TVR       ,Ato de Concessão e Renovação de Concessão de Emissora de Rádio e Televisão,True,a
+VTS       ,Voto em Separado,True,o
