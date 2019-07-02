@@ -1,0 +1,4 @@
+name: PostgreSQL - projetocurio
+url: jdbc:postgresql://104.155.150.247:5432/projetocurio
+user: uploaddata
+pw: VgyBhu876%%%
